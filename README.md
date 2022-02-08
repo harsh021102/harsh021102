@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Harsh Pratap Singh @harsh021102
 - 👀 I’m interested in Android Development, Competive Coding and Web Development.
-- 🌱 I’m currently learning Android Development.
+- 🌱 I’m currently learning Web Development.
